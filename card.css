@@ -2,10 +2,20 @@ body {
     background-color: antiquewhite;
     font-family:Arial, Helvetica, sans-serif;
     color: black;
+    margin-top: 100px;
 }
 
 img {
     width: 100%;
+}
+
+h1 {
+    margin: 15px 0;
+}
+
+h2 {
+    margin: 0;
+    font-weight: 100;
 }
 
 .card {
